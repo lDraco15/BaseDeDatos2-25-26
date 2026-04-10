@@ -1,6 +1,6 @@
 # Contenido
 
-1. [Consultas complejas y paths.](1-introduccion.md)
+1. [Modelado de grafos.](1-introduccion.md)
 2. [Un mismo problema, múltiples modelos.](2-multiples-modelos.md)
 3. [Comparando los modelos con consultas.](3-comparando-modelos.md)
 4. [Encontrando el equilibrio.](4-equilibrio.md)
