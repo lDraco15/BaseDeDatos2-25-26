@@ -29,7 +29,7 @@
     - [x] [Relaciones y patrones](Parcial2/3-Neo4J/4-relaciones-patrones)
     - [x] [Modelado de grafos](Parcial2/3-Neo4J/5-modelado)
     - [x] [Paths y recorridos](Parcial2/3-Neo4J/6-paths)
-    - [ ] [Analítica](Parcial2/3-Neo4J/7-casos-reales)
+    - [x] [Análisis de grafos y lectura de paths](Parcial2/3-Neo4J/7-casos-reales)
     - [ ] [Casos reales y Taller (evaluación continua)](Parcial2/3-Neo4J/8-taller)
   - [ ] BD Vectoriales
     
